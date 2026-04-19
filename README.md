@@ -9,9 +9,9 @@
 | Dataset ID | `929484` |
 | Location | New York |
 | Category | Restaurants |
-| Full dataset size | 47,628 records |
-| Free sample size | 1,000 records (2.1%) |
-| Last export | 2026-04-09T18:45:19.097914+00:00 |
+| Full dataset size | 47,341 records |
+| Free sample size | 1,000 records (2.11%) |
+| Last export | 2026-04-16T20:58:29.222048+00:00 |
 | Download | [Latest release asset](https://github.com/Beamstation-Datasets/all-restaurants-in-new-york-us-sample-929484/releases/download/sample-latest/beamstation_929484_restaurants-us-ny_SAMPLE_DIST.csv) |
 
 ## What is in this sample
