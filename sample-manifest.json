@@ -1,12 +1,12 @@
 {
-  "export_job_id": "b6d92c92-c6ae-47f9-bfc6-e72889de0e90",
+  "export_job_id": "26642540-fde6-43a6-8a31-daf1507ac7f1",
   "id_short": 929484,
-  "published_at": "2026-04-16T07:13:02Z",
+  "published_at": "2026-04-19T19:47:57Z",
   "repo_name": "all-restaurants-in-new-york-us-sample-929484",
   "sample_asset_name": "beamstation_929484_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/929484/beamstation_929484_restaurants-us-ny_SAMPLE_DIST.csv",
   "sample_records": 1000,
-  "sample_sha256": "b14a0e0305e01dcde58b777caeae2cff97da1190a57e222d83810fca096ca036",
-  "sample_size_bytes": 2675755,
-  "total_records": 47628
+  "sample_sha256": "68a794d9bb1ec60af8a2192b70e6401df444329709e2c1b677fe8d7c74447aa4",
+  "sample_size_bytes": 2366111,
+  "total_records": 47341
 }
