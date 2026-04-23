@@ -6,17 +6,17 @@
   "config_category": "census",
   "config_description": "Statewide restaurant dataset covering all active listings across New York. Filtered by the Restaurants category group, this state-level export provides the broadest geographic coverage for market analysis. Includes business profiles, ratings, reviews, competitive rankings, and contact information. Refreshed weekly.",
   "config_name": "All Restaurants in New York, US",
-  "export_job_id": "26642540-fde6-43a6-8a31-daf1507ac7f1",
+  "export_job_id": "8e42a875-97b1-4ef5-be52-2ab36e728470",
   "github_org": "Beamstation-Datasets",
   "id_short": 929484,
   "location_name": "New York",
   "location_type": "state",
   "repo_name": "all-restaurants-in-new-york-us-sample-929484",
   "sample_b2_path": "b2-export:BeamStation-ExportFiles/929484/beamstation_929484_restaurants-us-ny_SAMPLE_DIST.csv",
-  "sample_pct": 2.11,
+  "sample_pct": 2.32,
   "sample_records": 1000,
-  "sample_sha256": "68a794d9bb1ec60af8a2192b70e6401df444329709e2c1b677fe8d7c74447aa4",
-  "sample_size_bytes": 2366111,
-  "total_records": 47341,
-  "updated_at": "2026-04-16T20:58:29.222048+00:00"
+  "sample_sha256": "dc3ece60c47016f0d3f47183da120b07fbde6899d6817b4f8c8c77b54f31541c",
+  "sample_size_bytes": 2781040,
+  "total_records": 43106,
+  "updated_at": "2026-04-23T17:06:33.590398+00:00"
 }
